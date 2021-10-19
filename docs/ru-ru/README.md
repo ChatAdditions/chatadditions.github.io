@@ -50,7 +50,7 @@ Chat Additions - это набор инструментов для управл�
 - Установленный [ReGameDLL](https://github.com/s1lentq/ReGameDLL_CS);
 - Установленный AMXModX ([`v1.9`](https://www.amxmodx.org/downloads-new.php) или [`v1.10`](https://www.amxmodx.org/downloads-new.php?branch=master));
     - Установленный [ReAPI](https://github.com/s1lentq/reapi) модуль; 
-      
+
 ## Installation
 - [Скачать крайнюю](https://github.com/ChatAdditions/ChatAdditions_AMXX/releases/latest) сиабильную версию с секции релизов.
 - Распаковать `cstrike` папку в корневую папку HLDS сервера;
