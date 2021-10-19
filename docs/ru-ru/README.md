@@ -24,7 +24,7 @@
       
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#requirements">Requirements</a> •
+  <a href="#требования">Требования</a> •
   <a href="#installation">Installation</a> •
   <a href="#updating">Updating</a> •
   <a href="#downloads">Downloads</a> •
@@ -45,7 +45,7 @@ Chat Additions - это набор инструментов для управл�
   <img src="https://user-images.githubusercontent.com/18553678/125630814-d572260e-f64a-419b-8a61-6c30b788c188.gif" alt="Chat Additions в работе"></a>
 </p>
 
-## Requirements
+## Требования
 - Установленый HLDS;
 - Установленный [ReGameDLL](https://github.com/s1lentq/ReGameDLL_CS);
 - Установленный AMXModX ([`v1.9`](https://www.amxmodx.org/downloads-new.php) или [`v1.10`](https://www.amxmodx.org/downloads-new.php?branch=master));
