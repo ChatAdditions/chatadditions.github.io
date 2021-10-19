@@ -66,35 +66,35 @@ Chat Additions - это набор инструментов для управл�
 - [dev-версии](https://github.com/ChatAdditions/ChatAdditions_AMXX/actions/workflows/CI.yml)
       
 ## Возможности
-- Compatibility with any chat manager;
-- No [`VoiceTranscoder`](https://github.com/WPMGPRoSToTeMa/VoiceTranscoder) or [`ReVoice`](https://github.com/s1lentq/revoice/) required;
-- Flexible system of access rights and immunities for players;
-- Modular system, rich API capabilities, and flexibility;
-- Simple, intuitive interface (UX);
-- Multi-language support;
-- Simple, user-friendly configuration;
-- `CA_Gag`: Simple, flexible templates system (reasons, times, punishment type);
-- `CA_Gag`: Support for SQLite, MySQL, CSBans, GameCMS;
-- User-friendly logging system with good customization;
-- Up-to-date support and updates.
+- Совместимость с любым чат-менеджером;
+- Нет требования [`VoiceTranscoder`](https://github.com/WPMGPRoSToTeMa/VoiceTranscoder) или [`ReVoice`](https://github.com/s1lentq/revoice/) (опционально);
+- Гибкая система прав доступа и имменинута для администраторов и игроков;
+- Модульная система, богатые возможности API, гибкость;
+- Простой, понятный, гибкий интерфейс (UX);
+- Поддержка мультиязычности;
+- Простая, понятная настройка;
+- `CA_Gag`: Простая, гибкая, система шаблонов (причины, время, тип блокировки);
+- `CA_Gag`: Поддержка разного типа хранилищ (`SQLite`, `MySQL`, `CSBans`, `GameCMS`, `PGBans`);
+- Удобная система логирования с удобными настройками;
+- Актуальная поддержка и обновления.
 
 ## Wiki
-Do you **need some help**? Check the _articles_ from the [wiki](https://github.com/ChatAdditions/ChatAdditions_AMXX/wiki).
+Вам **need some help**? Check the _articles_ from the [wiki](https://github.com/ChatAdditions/ChatAdditions_AMXX/wiki).
 
 ## Поддержка (вклад)
 Got **something interesting** you'd like to **share**? Learn about [contributing](CONTRIBUTING.md).
 
 ## Контакты
-I would like to thank the creators of AMXModX and ReAPI and everyone who helps me in developing and testing this system, who supports my interest.
+Я хотел бы поблагодарить создателей `AMXModX` и `ReAPI` и всех, кто помогает мне в разработке и тестировании этой системы, кто поддерживает мой интерес.
       
-**Thank you guys! 👍**
+**Благодарю Вас! 👍**
 
 ## Поддержка
-Reach out to me at one of the following places:
+Свяжитесь со мной в одном из следующих мест:
 - Github issues;
 - Github discussions;
 - [Telegram](https://t.me/ShorokhovSergey);
-- [Telegram group](https://t.me/ChatAdditions_group);
+- [Telegram группа](https://t.me/ChatAdditions_group);
 - E-Mail;
 
 ## Лицензия
