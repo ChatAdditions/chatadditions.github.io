@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/discussions-on%20Telegram%20group-informational?style=flat-square&logo=googlechat"
          alt="Telegram">
 </p>
-      
+
 <p align="center">
   <a href="#about">About</a> •
   <a href="#requirements">Requirements</a> •
@@ -37,7 +37,7 @@
 ---
 
 ## About
-Chat Additions is a set of tools for managing voice as well as text chat, for your HLDS server. 
+Chat Additions is a set of tools for managing voice as well as text chat, for your HLDS server.
 Allows you to fully or selectively limit the player to use any chat (voice, general, team, admin).
 Modular system, allows you to use only the necessary tasks capabilities, thereby saving server resources.
 Rich API capabilities allow the system to connect any functionality (work with player statistics, automation of decisions on blocking).
@@ -49,7 +49,7 @@ Rich API capabilities allow the system to connect any functionality (work with p
 - HLDS installed;
 - [ReGameDLL](https://github.com/s1lentq/ReGameDLL_CS) installed;
 - Installed AMXModX ([`v1.9`](https://www.amxmodx.org/downloads-new.php) or [`v1.10`](https://www.amxmodx.org/downloads-new.php?branch=master));
-    - Installed [ReAPI](https://github.com/s1lentq/reapi) module; 
+    - Installed [ReAPI](https://github.com/s1lentq/reapi) module;
 
 ## Installation
 - [Download the latest](https://github.com/ChatAdditions/ChatAdditions_AMXX/releases/latest) stable version from the release section.
@@ -64,7 +64,7 @@ Rich API capabilities allow the system to connect any functionality (work with p
 ## Downloads
 - [Release builds](https://github.com/ChatAdditions/ChatAdditions_AMXX/releases)
 - [Dev builds](https://github.com/ChatAdditions/ChatAdditions_AMXX/actions/workflows/CI.yml)
-      
+
 ## Features
 - Compatibility with any chat manager;
 - No [`VoiceTranscoder`](https://github.com/WPMGPRoSToTeMa/VoiceTranscoder) or [`ReVoice`](https://github.com/s1lentq/revoice/) required;
@@ -86,7 +86,7 @@ Got **something interesting** you'd like to **share**? Learn about [contributing
 
 ## Credits
 I would like to thank the creators of AMXModX and ReAPI and everyone who helps me in developing and testing this system, who supports my interest.
-      
+
 **Thank you guys! 👍**
 
 ## Support
