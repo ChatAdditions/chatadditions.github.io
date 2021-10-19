@@ -2,7 +2,7 @@
   <a href="https://github.com/ChatAdditions/ChatAdditions_AMXX/releases"><img src="https://user-images.githubusercontent.com/18553678/125533850-6771c07f-021f-4882-b395-7d68d2679513.png" width="500px" alt="Chat Additions"></a>
 </h1>
 
-<p align="center">AMXModX plugin chat control tool with rich functionality and API.</p>
+<p align="center">Плагин AMXModX для управления чатом с богатой функциональностью и API.</p>
 
 <p align="center">
     <a href="https://github.com/ChatAdditions/ChatAdditions_AMXX/releases/latest">
@@ -37,24 +37,24 @@
 ---
 
 ## About
-Chat Additions is a set of tools for managing voice as well as text chat, for your HLDS server. 
-Allows you to fully or selectively limit the player to use any chat (voice, general, team, admin).
-Modular system, allows you to use only the necessary tasks capabilities, thereby saving server resources.
-Rich API capabilities allow the system to connect any functionality (work with player statistics, automation of decisions on blocking).
+Chat Additions - это набор инструментов для управления как голосовым, так и текстовым чатом для вашего HLDS сервера. 
+Позволяет полностью или выборочно ограничить игрока в использовании любого чата (голосовой, общий, командный, администраторский).
+Модульная система, позволяет использовать только необходимые возможности задач, тем самым экономя ресурсы сервера.
+Богатые возможности API позволяют подключить к системе любой функционал (работа со статистикой игроков, автоматизация решений о блокировке).
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/18553678/125630814-d572260e-f64a-419b-8a61-6c30b788c188.gif" alt="Chat Additions in work"></a>
+  <img src="https://user-images.githubusercontent.com/18553678/125630814-d572260e-f64a-419b-8a61-6c30b788c188.gif" alt="Chat Additions в работе"></a>
 </p>
 
 ## Requirements
-- HLDS installed;
-- [ReGameDLL](https://github.com/s1lentq/ReGameDLL_CS) installed;
-- Installed AMXModX ([`v1.9`](https://www.amxmodx.org/downloads-new.php) or [`v1.10`](https://www.amxmodx.org/downloads-new.php?branch=master));
-    - Installed [ReAPI](https://github.com/s1lentq/reapi) module; 
-
+- Установленый HLDS;
+- Установленный [ReGameDLL](https://github.com/s1lentq/ReGameDLL_CS);
+- Установленный AMXModX ([`v1.9`](https://www.amxmodx.org/downloads-new.php) или [`v1.10`](https://www.amxmodx.org/downloads-new.php?branch=master));
+    - Установленный [ReAPI](https://github.com/s1lentq/reapi) модуль; 
+      
 ## Installation
-- [Download the latest](https://github.com/ChatAdditions/ChatAdditions_AMXX/releases/latest) stable version from the release section.
-- Extract the `cstrike` folder to the root folder of the HLDS server;
-- Make sure that all plugins are running and in the correct order, using the `amxx list` command.
+- [Скачать крайнюю](https://github.com/ChatAdditions/ChatAdditions_AMXX/releases/latest) сиабильную версию с секции релизов.
+- Распаковать `cstrike` папку в корневую папку HLDS сервера;
+- Убедиться, что все плагины запущены и в корректном порядке следования с помощью команды `amxx list`.
 
 ## Updating
 - Put new plugins and lang-files (`plugins/*.amxx` & `data/lang/*.txt`) into `amxmodx/` folder on the HLDS server;
