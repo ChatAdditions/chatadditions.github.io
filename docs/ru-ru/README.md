@@ -18,25 +18,25 @@
     <img src="https://img.shields.io/badge/AMXModX-%3E%3D1.9.0-blue?style=flat-square"
          alt="AMXModX dependency">
     <a href="https://t.me/ChatAdditions_group">
-    <img src="https://img.shields.io/badge/discussions-on%20Telegram%20group-informational?style=flat-square&logo=googlechat"
+    <img src="https://img.shields.io/badge/discussions-в%20Telegram%20группе-informational?style=flat-square&logo=googlechat"
          alt="Telegram">
 </p>
       
 <p align="center">
-  <a href="#about">About</a> •
-  <a href="#requirements">Requirements</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#updating">Updating</a> •
-  <a href="#downloads">Downloads</a> •
-  <a href="#features">Features</a> •
+  <a href="#о-системе">О Системе</a> •
+  <a href="#требования">Требования</a> •
+  <a href="#установка">Установка</a> •
+  <a href="#обновление">Обновление</a> •
+  <a href="#загрузки">Загрузки</a> •
+  <a href="#возможности">Возможности</a> •
   <a href="#wiki">Wiki</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#credits">Credits</a>
+  <a href="#поддержка-вклад">Поддержка (вклад)</a> •
+  <a href="#контакты">Контакты</a>
 </p>
 
 ---
 
-## About
+## О Системе
 Chat Additions - это набор инструментов для управления как голосовым, так и текстовым чатом для вашего HLDS сервера. 
 Позволяет полностью или выборочно ограничить игрока в использовании любого чата (голосовой, общий, командный, администраторский).
 Модульная система, позволяет использовать только необходимые возможности задач, тем самым экономя ресурсы сервера.
@@ -45,27 +45,27 @@ Chat Additions - это набор инструментов для управл�
   <img src="https://user-images.githubusercontent.com/18553678/125630814-d572260e-f64a-419b-8a61-6c30b788c188.gif" alt="Chat Additions в работе"></a>
 </p>
 
-## Requirements
+## Требования
 - Установленый HLDS;
 - Установленный [ReGameDLL](https://github.com/s1lentq/ReGameDLL_CS);
 - Установленный AMXModX ([`v1.9`](https://www.amxmodx.org/downloads-new.php) или [`v1.10`](https://www.amxmodx.org/downloads-new.php?branch=master));
     - Установленный [ReAPI](https://github.com/s1lentq/reapi) модуль; 
 
-## Installation
-- [Скачать крайнюю](https://github.com/ChatAdditions/ChatAdditions_AMXX/releases/latest) сиабильную версию с секции релизов.
+## Установка
+- [Скачать крайнюю](https://github.com/ChatAdditions/ChatAdditions_AMXX/releases/latest) стабильную версию в разделе релизов.
 - Распаковать `cstrike` папку в корневую папку HLDS сервера;
 - Убедиться, что все плагины запущены и в корректном порядке следования с помощью команды `amxx list`.
 
-## Updating
-- Put new plugins and lang-files (`plugins/*.amxx` & `data/lang/*.txt`) into `amxmodx/` folder on the HLDS server;
-- Restart the server (command `restart` or change the map);
-- Make sure that the versions of the plugins are up to date with the command `amxx list`.
+## Обновление
+- Поместите новые плагины и lang-файлы (`plugins/*.amxx` & `data/lang/*.txt`) в `amxmodx/` папку на HLDS сервере;
+- Сделайте рестарт сервера (команда `restart` или смените карту);
+- Убедиться, что все плагины запущены и в корректном порядке следования с помощью команды `amxx list`.
 
-## Downloads
-- [Release builds](https://github.com/ChatAdditions/ChatAdditions_AMXX/releases)
-- [Dev builds](https://github.com/ChatAdditions/ChatAdditions_AMXX/actions/workflows/CI.yml)
+## Загрузки
+- [Стабильные версии](https://github.com/ChatAdditions/ChatAdditions_AMXX/releases)
+- [dev-версии](https://github.com/ChatAdditions/ChatAdditions_AMXX/actions/workflows/CI.yml)
       
-## Features
+## Возможности
 - Compatibility with any chat manager;
 - No [`VoiceTranscoder`](https://github.com/WPMGPRoSToTeMa/VoiceTranscoder) or [`ReVoice`](https://github.com/s1lentq/revoice/) required;
 - Flexible system of access rights and immunities for players;
@@ -81,15 +81,15 @@ Chat Additions - это набор инструментов для управл�
 ## Wiki
 Do you **need some help**? Check the _articles_ from the [wiki](https://github.com/ChatAdditions/ChatAdditions_AMXX/wiki).
 
-## Contributing
+## Поддержка (вклад)
 Got **something interesting** you'd like to **share**? Learn about [contributing](CONTRIBUTING.md).
 
-## Credits
+## Контакты
 I would like to thank the creators of AMXModX and ReAPI and everyone who helps me in developing and testing this system, who supports my interest.
       
 **Thank you guys! 👍**
 
-## Support
+## Поддержка
 Reach out to me at one of the following places:
 - Github issues;
 - Github discussions;
@@ -97,6 +97,6 @@ Reach out to me at one of the following places:
 - [Telegram group](https://t.me/ChatAdditions_group);
 - E-Mail;
 
-## License
+## Лицензия
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
  Copyright © Sergey Shorokhov
